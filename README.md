@@ -47,7 +47,7 @@ exit(); // will close the image automatically after few second
   It's not compulsory to save it. but easier if you do so.
 
 ### 6. Run the Sketch 
-
+`C:\Users\MonikaP.SCANTECH\Documents\Visual Studio 2017\WebSites\node-twit-bot\rainbow` this is location of your sketch file if you confused
 ```
 processing-java --sketch="C:\Users\MonikaP.SCANTECH\Documents\Visual Studio 2017\WebSites\node-twit-bot\rainbow" --run
 ```
